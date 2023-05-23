@@ -1,0 +1,29 @@
+tr,
+td {
+	height: 72px;
+	width: 72px;
+	font-size: 1.4rem;
+}
+.fBlock {
+	background-color: #9bff99;
+}
+
+.sBlock {
+  background-color: #ff9999;
+}
+
+.dBlock {
+  background-color: #99ccff;
+}
+
+.pBlock {
+  background-color: #fdff8c;
+}
+
+div td {
+  background-color: #fdff8c ;
+}
+
+.clear {
+	background-color: white;
+}
