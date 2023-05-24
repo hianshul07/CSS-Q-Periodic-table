@@ -1,3 +1,3 @@
 # CSS-Q-Periodic-table
 
-![Output image](./Screenshot%20(384).png)
+![Output image](./periodic-table.png)
